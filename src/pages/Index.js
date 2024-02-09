@@ -27,7 +27,7 @@ const Index = () => {
               <Card sx={{ minWidth: 49 + '%' , height: 150 }}>
                 <CardContent>
                   <Typography gutterBottom variant="h5" component="div">
-                    Lizard
+                    No. of Users
                   </Typography>
                  
                 </CardContent>
@@ -35,7 +35,7 @@ const Index = () => {
               <Card sx={{ minWidth: 49 + '%' , height: 150 }}>
                 <CardContent>
                   <Typography gutterBottom variant="h5" component="div">
-                    Lizard
+                    No. of Roles
                   </Typography>
                 
                 </CardContent>
